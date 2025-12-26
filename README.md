@@ -1,4 +1,5 @@
 #tutorial
-basic of java with oop conceptees
+basic of  git and github
 by moksh patel 
 which cover the basic 
+commonds
